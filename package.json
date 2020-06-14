@@ -1,0 +1,19 @@
+{
+  "name": "robo-friends",
+  "version": "0.1.1",
+  "description": "sample robo friends app from ztm.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishinad/robo-friends.git"
+  },
+  "author": "n4m1t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrishinad/robo-friends/issues"
+  },
+  "homepage": "https://github.com/hrishinad/robo-friends#readme"
+}
